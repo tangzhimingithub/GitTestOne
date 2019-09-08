@@ -4,3 +4,4 @@
 # @Author :TZM
 # @File   :test.py
 print("tangzhimin")
+print("tang")
