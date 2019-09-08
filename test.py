@@ -4,5 +4,5 @@
 # @Author :TZM
 # @File   :test.py
 print("tangzhimin")
-print("tang")
-print("zhi")
+print("dev1")
+print("dev2haha")
